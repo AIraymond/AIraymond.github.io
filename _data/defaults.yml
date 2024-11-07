@@ -1,4 +1,5 @@
 home:
   heading: "这就是男子汉的世界！！！！"
   subheading: "刘永霖"
-  banner: "https://cdn2.ettoday.net/images/2491/2491189.jpg"
+  banner: 
+              image: https://cdn2.ettoday.net/images/2491/2491189.jpg
